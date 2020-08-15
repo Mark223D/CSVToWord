@@ -12,7 +12,10 @@ Inspired by : <https://pbpython.com/python-word-template.html>
 
 ### 1. Install dependencies
 
-In terminal (MacOSX, Linux) or Powershell (Windows), run `pip install mailmerge` or `pip3 install mailmerge` depending on which version of python you have installed on your computer
+In terminal (MacOSX, Linux) or Powershell (Windows)
+run `pip install mailmerge`
+**or (depending on which version of python you are using)**
+run `pip3 install mailmerge`
 
 ### 2. Create MergeFields in Word Document
 
@@ -58,10 +61,10 @@ This class contains the fields of each row. Default: Person
 - In terminal (Mac OSX, Linux), or powershell (Windows) navigate to repo folder:
 `cd {path}` where `{path}`  is the path to the repo directory
 
-- Once inside the repo directory
+- In terminal, once inside the repo directory
  run `python CSVtoWord.py`
- **or**
- run `python3 CSVToWord.py` depending on which version of python you are using.
+ **or (depending on which version of python you are using)**
+ run `python3 CSVToWord.py`
 
 ## Ouput
 
