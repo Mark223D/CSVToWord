@@ -2,7 +2,7 @@
 
 ----------------------------------------
 
-This is a python script that will read an csv file, and will input the data of each row into a Word Document using Mergefields.
+Python script that will read a CSV file, and will input the data of each row into a Word Document using Mergefields.
 
 Inspired by : <https://pbpython.com/python-word-template.html>
 
