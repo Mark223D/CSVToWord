@@ -12,11 +12,11 @@ Inspired by : <https://pbpython.com/python-word-template.html>
 
 ### 1. Install dependencies
 
-    In terminal (MacOSX, Linux) or Powershell (Windows), run `pip install mailmerge` or `pip3 install mailmerge` depending on which version of python you have installed on your computer
+In terminal (MacOSX, Linux) or Powershell (Windows), run `pip install mailmerge` or `pip3 install mailmerge` depending on which version of python you have installed on your computer
 
 ### 2. Create MergeFields in Word Document
 
-    - Use <https://pbpython.com/python-word-template.html> as reference to create MergeFields in Word
+Use <https://pbpython.com/python-word-template.html> as reference to create MergeFields in Word
 
 ### 3. Clone repository
 
